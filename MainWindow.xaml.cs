@@ -15,9 +15,6 @@ using System.Windows.Shapes;
 
 namespace Morosan_Nicolae_Lab2
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
         private DoughnutMachine myDoughnutMachine;
